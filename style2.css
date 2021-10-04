@@ -1,0 +1,30 @@
+body {
+		background-image: url(image/pymon.jpg);
+}
+.epic{
+	border-radius: 50%;
+}
+.name {
+	color:#000080;
+	font-size: 20px;
+	text-align: center;
+}
+.opis {
+	color:#000080;
+	font-size: 20px;
+	text-align: center;
+	padding: 30px;
+}
+
+table {
+	background-color: #9370DB;
+	color:#FFFFFF;
+	padding: 20px;
+	border: 8px dashed #6A5ACD;
+	border-radius: 25px;
+	width: 800px;
+	height:30px;
+	width:850px;
+	margin:30px auto;
+
+}	

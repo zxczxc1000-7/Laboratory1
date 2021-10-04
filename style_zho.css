@@ -1,0 +1,50 @@
+body{
+    background-image: url(image/liue.jpg);
+    }
+    .info {
+        color: #9c5513;
+        text-align: left;
+        font-size: 20px;
+        max-width: 35%;
+        margin: 10px;
+        padding:20px;
+        float:right;
+        background-color: #fff;
+        border: 8px solid #c9501cec;
+        border-radius: 30px;
+        box-shadow: 4px 4px 14px #000;
+        line-height: 30px;
+        
+    }
+    a {
+        color: #4a3707;
+    }
+    h2 {
+        max-width: 100px;
+    }
+    .talant {
+    color: #9c5513;
+    border: 8px dashed #c9501cec;
+    border-radius: 30px;
+    font-size: 20px;
+    text-align: center;
+    margin: 30px;
+    padding:40px ;
+    max-width: 55%;
+    background-color: white;
+    box-shadow: 4px 4px 14px #000;
+    }
+    
+    .galary 
+    { 
+        color: #9c5513;
+        border: 8px dashed #c9501cec;
+        border-radius: 30px;
+        padding:16px;
+        margin: 30px;
+        background-color: white;
+        box-shadow: 4px 4px 14px #000;
+    }
+    img {
+        border-radius: 25px;
+    }

@@ -1,0 +1,50 @@
+body{
+    background-image: url(image/mond2.jpg);
+    }
+    .info {
+        color: #730909ec;
+        text-align: left;
+        font-size: 20px;
+        max-width: 35%;
+        margin: 10px;
+        padding:20px;
+        float:right;
+        background-color: #fff;
+        border: 8px solid #ffb340ec;
+        border-radius: 30px;
+        box-shadow: 4px 4px 14px #000;
+        line-height: 30px;
+        
+    }
+    a {
+        color:#ffcb47;
+    }
+    h2 {
+        max-width: 100px;
+    }
+    .talant {
+    color: #730909ec;
+    border: 8px dashed #ffb340ec;
+    border-radius: 30px;
+    font-size: 20px;
+    text-align: center;
+    margin: 30px;
+    padding:40px ;
+    max-width: 55%;
+    background-color: white;
+    box-shadow: 4px 4px 14px #000;
+    }
+    
+    .galary 
+    { 
+        color: #730909ec;
+        border: 8px dashed #ffb340ec;
+        border-radius: 30px;
+        padding:16px;
+        margin: 30px;
+        background-color: white;
+        box-shadow: 4px 4px 14px #000;
+    }
+    img {
+        border-radius: 25px;
+    }
